@@ -2,27 +2,24 @@
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Junior+developer+from+Russia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Junior+C_Sharp+developer" alt="Typing SVG" />
 
 </a>
 
-<h3>📋 Learning these languages:
- 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+### :woman_technologist: About Me :
+My name is Ruslan, and I am a beginner in software development. I am actively learning and developing in the C# programming language. Experience building desktop applications using C# and the .NET framework helped me understand the principles of object-oriented programming and user interface development.
 
-</h3>
+* 🌍  I'm based in Russian, MSK
+* 🖥️  See my portfolio at [GitHub](http://github.com/He11Cut3?tab=repositories)
+* ✉️  You can contact me at [ruslan.off89@mail.ru](mailto:ruslan.off89@mail.ru)
+* 🧠  I'm learning .NET 6.0
 
-<h3> 💾 I use these databases:
-  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-</h3>
+### :hammer_and_wrench: Languages and Tools :
 
-<h3> 📚 I use these frameworks:
-  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-</h3>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>
 
-<h3> Stats: 
-  
-![Hells GitHub stats](https://github-readme-stats.vercel.app/api?username=He11Cut3&show_icons=true&theme=radical)
-</h3>
+</p>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=he11cut3&theme=dark&background=000000)](https://git.io/streak-stats)
