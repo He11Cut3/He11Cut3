@@ -6,7 +6,7 @@
 
 </a>
 
-### :man_technologist: About Me :
+### 📔 About Me :
 My name is Ruslan, and I am a beginner in software development. I am actively learning and developing in the C# programming language. Experience building desktop applications using C# and the .NET framework helped me understand the principles of object-oriented programming and user interface development.
 
 * 🌍  I'm based in Russian, MSK
@@ -14,12 +14,12 @@ My name is Ruslan, and I am a beginner in software development. I am actively le
 * ✉️  You can contact me at [ruslan.off89@mail.ru](mailto:ruslan.off89@mail.ru)
 * 🧠  I'm learning .NET 6.0
 
-### :hammer_and_wrench: Languages and Tools :
+### #️⃣ Languages and Tools :
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>
 
 </p>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=he11cut3&theme=dark&background=000000)](https://git.io/streak-stats)
