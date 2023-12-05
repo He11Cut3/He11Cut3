@@ -6,7 +6,7 @@
 
 </a>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 My name is Ruslan, and I am a beginner in software development. I am actively learning and developing in the C# programming language. Experience building desktop applications using C# and the .NET framework helped me understand the principles of object-oriented programming and user interface development.
 
 * 🌍  I'm based in Russian, MSK
