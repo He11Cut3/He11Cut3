@@ -12,7 +12,7 @@ My name is Ruslan, and I am a beginner in software development. I am actively le
 * 🌍  I'm based in Russian, MSK
 * 🖥️  See my portfolio at [GitHub](http://github.com/He11Cut3?tab=repositories)
 * ✉️  You can contact me at [ruslan.off89@mail.ru](mailto:ruslan.off89@mail.ru)
-* 🧠  I'm learning .NET 6.0
+* 🧠  I'm learning .NET 8.0
 
 ### #️⃣ Languages and Tools :
 
