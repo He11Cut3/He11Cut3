@@ -1,18 +1,8 @@
 ![github-header-image](https://user-images.githubusercontent.com/96310786/216841924-cc6672fc-598a-40ba-919e-4afcf3275cf6.png)
 
 <a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Junior+C_Sharp+developer" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Junior+C_Sharp+developer" alt="Typing SVG" />
 </a>
-
-### 📔 About Me :
-My name is Ruslan, and I am a beginner in software development. I am actively learning and developing in the C# programming language. Experience building desktop applications using C# and the .NET framework helped me understand the principles of object-oriented programming and user interface development.
-
-* 🌍  I'm based in Russian, MSK
-* 🖥️  See my portfolio at [GitHub](http://github.com/He11Cut3?tab=repositories)
-* ✉️  You can contact me at [ruslan.off89@mail.ru](mailto:ruslan.off89@mail.ru)
-* 🧠  I'm learning .NET 8.0
 
 ### #️⃣ Languages and Tools :
 
